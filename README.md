@@ -1,6 +1,9 @@
-# @dreamdecay/runtime
+# @dreamdecay/runtime 
 
 > Some pages do not belong to their authors anymore.
+
+v0.1.1
+
 
 @dreamdecay/runtime is a deterministic, reversible dream-state fracture engine for the web.  
 It takes an existing page and gently breaks it — not randomly, but remembering how it broke.
