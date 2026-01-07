@@ -31,8 +31,3 @@ If a page has memory, this is how you wake it up.
 
 ```bash
 npm install @dreamdecay/runtime
-
-
-or via CDN:
-
-<script src="https://unpkg.com/@dreamdecay/runtime"></script>
