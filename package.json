@@ -1,1 +1,34 @@
-
+{
+  "name": "@dreamdecay/runtime",
+  "version": "0.1.0",
+  "description": "Deterministic, reversible dream-state decay engine for the web.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "dream",
+    "decay",
+    "glitch",
+    "fracture",
+    "ui",
+    "web",
+    "experimental",
+    "deterministic",
+    "art"
+  ],
+  "author": "kennethesweetjr",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennethesweetjr/dreamdecay-runtime"
+  },
+  "bugs": {
+    "url": "https://github.com/kennethesweetjr/dreamdecay-runtime/issues"
+  },
+  "homepage": "https://rckbl.com",
+  "publishConfig": {
+    "access": "public"
+  }
+}
